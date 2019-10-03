@@ -18,3 +18,15 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: lighter;
 }
+.button{
+    width: 30%;
+    height: 40px;
+    border-style: none;
+    border-radius: 5px;
+    margin: auto;
+    display: block;
+    background-color: red;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
